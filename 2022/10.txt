@@ -1,0 +1,53 @@
+{
+    "projects": [
+        {
+            "name": "planning",
+            "tags": [
+                {
+                    "name": "projects",
+                    "time": 2492.0
+                },
+                {
+                    "name": "quarter",
+                    "time": 2492.0
+                }
+            ],
+            "time": 2492.0
+        },
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "devops",
+                    "time": 2366.0
+                },
+                {
+                    "name": "frontend",
+                    "time": 4428.0
+                },
+                {
+                    "name": "linux",
+                    "time": 7200.0
+                },
+                {
+                    "name": "shell",
+                    "time": 7200.0
+                },
+                {
+                    "name": "sveltekit",
+                    "time": 6794.0
+                },
+                {
+                    "name": "watson",
+                    "time": 7200.0
+                }
+            ],
+            "time": 13994.0
+        }
+    ],
+    "time": 16486.0,
+    "timespan": {
+        "from": "2022-10-02T00:00:00-04:00",
+        "to": "2022-10-02T23:59:59.999999-04:00"
+    }
+}
