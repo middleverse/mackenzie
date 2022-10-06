@@ -97,3 +97,62 @@
         "to": "2022-10-04T23:59:59.999999-04:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "api",
+                    "time": 191.0
+                },
+                {
+                    "name": "rest",
+                    "time": 191.0
+                },
+                {
+                    "name": "rust",
+                    "time": 191.0
+                }
+            ],
+            "time": 191.0
+        },
+        {
+            "name": "research",
+            "tags": [
+                {
+                    "name": "comment_system",
+                    "time": 1742.0
+                },
+                {
+                    "name": "frontend",
+                    "time": 1742.0
+                },
+                {
+                    "name": "sveltekit",
+                    "time": 1742.0
+                }
+            ],
+            "time": 1742.0
+        },
+        {
+            "name": "writing",
+            "tags": [
+                {
+                    "name": "blog",
+                    "time": 3666.0
+                },
+                {
+                    "name": "william",
+                    "time": 3666.0
+                }
+            ],
+            "time": 3666.0
+        }
+    ],
+    "time": 5599.0,
+    "timespan": {
+        "from": "2022-10-05T00:00:00-04:00",
+        "to": "2022-10-05T23:59:59.999999-04:00"
+    }
+}
