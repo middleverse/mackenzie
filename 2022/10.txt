@@ -289,3 +289,50 @@
         "to": "2022-10-09T23:59:59.999999-04:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "planning",
+            "tags": [
+                {
+                    "name": "q4",
+                    "time": 2485.0
+                }
+            ],
+            "time": 2485.0
+        },
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "algo",
+                    "time": 5638.0
+                },
+                {
+                    "name": "data_structures",
+                    "time": 5638.0
+                }
+            ],
+            "time": 5638.0
+        },
+        {
+            "name": "rnd",
+            "tags": [
+                {
+                    "name": "architecture",
+                    "time": 2249.0
+                },
+                {
+                    "name": "ecommerce",
+                    "time": 2249.0
+                }
+            ],
+            "time": 2249.0
+        }
+    ],
+    "time": 10372.0,
+    "timespan": {
+        "from": "2022-10-10T00:00:00-04:00",
+        "to": "2022-10-10T23:59:59.999999-04:00"
+    }
+}
