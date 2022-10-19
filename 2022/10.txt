@@ -502,3 +502,40 @@
         "to": "2022-10-17T23:59:59.999999-04:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "planning",
+            "tags": [
+                {
+                    "name": "course",
+                    "time": 3747.0
+                },
+                {
+                    "name": "ecommerce",
+                    "time": 3747.0
+                }
+            ],
+            "time": 3747.0
+        },
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "algo",
+                    "time": 838.0
+                },
+                {
+                    "name": "data_structures",
+                    "time": 838.0
+                }
+            ],
+            "time": 838.0
+        }
+    ],
+    "time": 4585.0,
+    "timespan": {
+        "from": "2022-10-18T00:00:00-04:00",
+        "to": "2022-10-18T23:59:59.999999-04:00"
+    }
+}
