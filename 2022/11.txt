@@ -1,0 +1,41 @@
+{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "algo",
+                    "time": 8624.0
+                },
+                {
+                    "name": "data_structures",
+                    "time": 8624.0
+                }
+            ],
+            "time": 8624.0
+        },
+        {
+            "name": "reading",
+            "tags": [
+                {
+                    "name": "node",
+                    "time": 3569.0
+                },
+                {
+                    "name": "node_design_patterns",
+                    "time": 3569.0
+                },
+                {
+                    "name": "programming",
+                    "time": 3569.0
+                }
+            ],
+            "time": 3569.0
+        }
+    ],
+    "time": 12193.0,
+    "timespan": {
+        "from": "2022-11-07T00:00:00-05:00",
+        "to": "2022-11-07T23:59:59.999999-05:00"
+    }
+}
