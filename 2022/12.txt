@@ -1,0 +1,41 @@
+{
+    "projects": [
+        {
+            "name": "design",
+            "tags": [
+                {
+                    "name": "algo_expert",
+                    "time": 1800.0
+                },
+                {
+                    "name": "learning",
+                    "time": 1800.0
+                },
+                {
+                    "name": "system_design",
+                    "time": 1800.0
+                }
+            ],
+            "time": 1800.0
+        },
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "algo",
+                    "time": 1626.0
+                },
+                {
+                    "name": "data_structures",
+                    "time": 1626.0
+                }
+            ],
+            "time": 1626.0
+        }
+    ],
+    "time": 3426.0,
+    "timespan": {
+        "from": "2022-12-04T00:00:00-05:00",
+        "to": "2022-12-04T23:59:59.999999-05:00"
+    }
+}
