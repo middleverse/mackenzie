@@ -39,3 +39,40 @@
         "to": "2022-12-04T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "algo",
+                    "time": 7134.0
+                },
+                {
+                    "name": "data_structures",
+                    "time": 7134.0
+                }
+            ],
+            "time": 7134.0
+        },
+        {
+            "name": "research",
+            "tags": [
+                {
+                    "name": "career_path",
+                    "time": 1859.0
+                },
+                {
+                    "name": "distributed_systems",
+                    "time": 1859.0
+                }
+            ],
+            "time": 1859.0
+        }
+    ],
+    "time": 8993.0,
+    "timespan": {
+        "from": "2022-12-06T00:00:00-05:00",
+        "to": "2022-12-06T23:59:59.999999-05:00"
+    }
+}
