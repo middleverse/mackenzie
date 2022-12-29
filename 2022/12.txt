@@ -140,3 +140,268 @@
         "to": "2022-12-08T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "planning",
+            "tags": [
+                {
+                    "name": "milestones",
+                    "time": 5249.0
+                },
+                {
+                    "name": "month",
+                    "time": 5249.0
+                },
+                {
+                    "name": "productivity",
+                    "time": 5249.0
+                }
+            ],
+            "time": 5249.0
+        }
+    ],
+    "time": 5249.0,
+    "timespan": {
+        "from": "2022-12-11T00:00:00-05:00",
+        "to": "2022-12-11T23:59:59.999999-05:00"
+    }
+}
+,{
+    "projects": [
+        {
+            "name": "interview",
+            "tags": [
+                {
+                    "name": "algo",
+                    "time": 4500.0
+                },
+                {
+                    "name": "programming",
+                    "time": 4500.0
+                }
+            ],
+            "time": 4500.0
+        },
+        {
+            "name": "prep",
+            "tags": [
+                {
+                    "name": "interview",
+                    "time": 5496.0
+                },
+                {
+                    "name": "system_design",
+                    "time": 5496.0
+                }
+            ],
+            "time": 5496.0
+        }
+    ],
+    "time": 9996.0,
+    "timespan": {
+        "from": "2022-12-12T00:00:00-05:00",
+        "to": "2022-12-12T23:59:59.999999-05:00"
+    }
+}
+,{
+    "projects": [
+        {
+            "name": "prep",
+            "tags": [
+                {
+                    "name": "interview",
+                    "time": 5730.0
+                },
+                {
+                    "name": "system_design",
+                    "time": 5730.0
+                }
+            ],
+            "time": 5730.0
+        }
+    ],
+    "time": 5730.0,
+    "timespan": {
+        "from": "2022-12-13T00:00:00-05:00",
+        "to": "2022-12-13T23:59:59.999999-05:00"
+    }
+}
+,{
+    "projects": [
+        {
+            "name": "prep",
+            "tags": [
+                {
+                    "name": "interview",
+                    "time": 6528.0
+                },
+                {
+                    "name": "system_design",
+                    "time": 6528.0
+                }
+            ],
+            "time": 6528.0
+        }
+    ],
+    "time": 6528.0,
+    "timespan": {
+        "from": "2022-12-14T00:00:00-05:00",
+        "to": "2022-12-14T23:59:59.999999-05:00"
+    }
+}
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "coding_art",
+                    "time": 3212.0
+                },
+                {
+                    "name": "course",
+                    "time": 3212.0
+                },
+                {
+                    "name": "js",
+                    "time": 3212.0
+                },
+                {
+                    "name": "personal",
+                    "time": 3212.0
+                }
+            ],
+            "time": 3212.0
+        }
+    ],
+    "time": 3212.0,
+    "timespan": {
+        "from": "2022-12-27T00:00:00-05:00",
+        "to": "2022-12-27T23:59:59.999999-05:00"
+    }
+}
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "coding_art",
+                    "time": 3452.0
+                },
+                {
+                    "name": "course",
+                    "time": 3452.0
+                },
+                {
+                    "name": "js",
+                    "time": 3452.0
+                },
+                {
+                    "name": "personal",
+                    "time": 3452.0
+                }
+            ],
+            "time": 3452.0
+        }
+    ],
+    "time": 3452.0,
+    "timespan": {
+        "from": "2022-12-28T00:00:00-05:00",
+        "to": "2022-12-28T23:59:59.999999-05:00"
+    }
+}
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "coding_art",
+                    "time": 5721.0
+                },
+                {
+                    "name": "course",
+                    "time": 5721.0
+                },
+                {
+                    "name": "js",
+                    "time": 5721.0
+                },
+                {
+                    "name": "personal",
+                    "time": 5721.0
+                }
+            ],
+            "time": 5721.0
+        }
+    ],
+    "time": 5721.0,
+    "timespan": {
+        "from": "2022-12-29T00:00:00-05:00",
+        "to": "2022-12-29T23:59:59.999999-05:00"
+    }
+}
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "coding_art",
+                    "time": 5721.0
+                },
+                {
+                    "name": "course",
+                    "time": 5721.0
+                },
+                {
+                    "name": "js",
+                    "time": 5721.0
+                },
+                {
+                    "name": "personal",
+                    "time": 5721.0
+                }
+            ],
+            "time": 5721.0
+        }
+    ],
+    "time": 5721.0,
+    "timespan": {
+        "from": "2022-12-29T00:00:00-05:00",
+        "to": "2022-12-29T23:59:59.999999-05:00"
+    }
+}
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "coding_art",
+                    "time": 6871.0
+                },
+                {
+                    "name": "course",
+                    "time": 6871.0
+                },
+                {
+                    "name": "js",
+                    "time": 6871.0
+                },
+                {
+                    "name": "personal",
+                    "time": 6871.0
+                }
+            ],
+            "time": 6871.0
+        }
+    ],
+    "time": 6871.0,
+    "timespan": {
+        "from": "2022-12-29T00:00:00-05:00",
+        "to": "2022-12-29T23:59:59.999999-05:00"
+    }
+}
