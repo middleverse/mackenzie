@@ -1,0 +1,27 @@
+{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "full_stack",
+                    "time": 21827.0
+                },
+                {
+                    "name": "interview_project",
+                    "time": 21827.0
+                },
+                {
+                    "name": "vention",
+                    "time": 21827.0
+                }
+            ],
+            "time": 21827.0
+        }
+    ],
+    "time": 21827.0,
+    "timespan": {
+        "from": "2023-01-01T00:00:00-05:00",
+        "to": "2023-01-01T23:59:59.999999-05:00"
+    }
+}
