@@ -25,3 +25,30 @@
         "to": "2023-01-01T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "full_stack",
+                    "time": 9624.0
+                },
+                {
+                    "name": "interview_project",
+                    "time": 9624.0
+                },
+                {
+                    "name": "vention",
+                    "time": 9624.0
+                }
+            ],
+            "time": 9624.0
+        }
+    ],
+    "time": 9624.0,
+    "timespan": {
+        "from": "2023-01-02T00:00:00-05:00",
+        "to": "2023-01-02T23:59:59.999999-05:00"
+    }
+}
