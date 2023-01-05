@@ -79,3 +79,34 @@
         "to": "2023-01-03T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "algo",
+                    "time": 10747.0
+                },
+                {
+                    "name": "data_structures",
+                    "time": 10747.0
+                },
+                {
+                    "name": "type_challenges",
+                    "time": 3550.0
+                },
+                {
+                    "name": "typescript",
+                    "time": 3550.0
+                }
+            ],
+            "time": 14297.0
+        }
+    ],
+    "time": 14297.0,
+    "timespan": {
+        "from": "2023-01-04T00:00:00-05:00",
+        "to": "2023-01-04T23:59:59.999999-05:00"
+    }
+}
