@@ -110,3 +110,44 @@
         "to": "2023-01-04T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "algo",
+                    "time": 13234.0
+                },
+                {
+                    "name": "data_structures",
+                    "time": 13234.0
+                }
+            ],
+            "time": 13234.0
+        },
+        {
+            "name": "reading",
+            "tags": [
+                {
+                    "name": "node",
+                    "time": 9950.0
+                },
+                {
+                    "name": "node_design_patterns",
+                    "time": 9950.0
+                },
+                {
+                    "name": "programming",
+                    "time": 9950.0
+                }
+            ],
+            "time": 9950.0
+        }
+    ],
+    "time": 23184.0,
+    "timespan": {
+        "from": "2023-01-05T00:00:00-05:00",
+        "to": "2023-01-05T23:59:59.999999-05:00"
+    }
+}
