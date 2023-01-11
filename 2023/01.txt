@@ -220,3 +220,36 @@
         "to": "2023-01-09T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "reading",
+            "tags": [
+                {
+                    "name": "node_design_patterns",
+                    "time": 1920.0
+                }
+            ],
+            "time": 1920.0
+        },
+        {
+            "name": "setup",
+            "tags": [
+                {
+                    "name": "new_machine",
+                    "time": 28391.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 28391.0
+                }
+            ],
+            "time": 28391.0
+        }
+    ],
+    "time": 30311.0,
+    "timespan": {
+        "from": "2023-01-10T00:00:00-05:00",
+        "to": "2023-01-10T23:59:59.999999-05:00"
+    }
+}
