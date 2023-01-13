@@ -253,3 +253,60 @@
         "to": "2023-01-10T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "auth",
+                    "time": 21761.0
+                },
+                {
+                    "name": "feature",
+                    "time": 21761.0
+                },
+                {
+                    "name": "overall_architecture",
+                    "time": 1677.0
+                },
+                {
+                    "name": "paymagic",
+                    "time": 21761.0
+                },
+                {
+                    "name": "understanding",
+                    "time": 1677.0
+                },
+                {
+                    "name": "upgrade",
+                    "time": 21761.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 23438.0
+                }
+            ],
+            "time": 23438.0
+        },
+        {
+            "name": "standup",
+            "tags": [
+                {
+                    "name": "todos",
+                    "time": 2765.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 2765.0
+                }
+            ],
+            "time": 2765.0
+        }
+    ],
+    "time": 26203.0,
+    "timespan": {
+        "from": "2023-01-12T00:00:00-05:00",
+        "to": "2023-01-12T23:59:59.999999-05:00"
+    }
+}
