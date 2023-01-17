@@ -333,3 +333,116 @@
         "to": "2023-01-14T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "design",
+            "tags": [
+                {
+                    "name": "full_stack",
+                    "time": 3979.0
+                },
+                {
+                    "name": "variable_incentives",
+                    "time": 3979.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 3979.0
+                }
+            ],
+            "time": 3979.0
+        },
+        {
+            "name": "marketing",
+            "tags": [
+                {
+                    "name": "fetch_likes",
+                    "time": 3799.0
+                },
+                {
+                    "name": "product_hunt",
+                    "time": 3799.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 3799.0
+                }
+            ],
+            "time": 3799.0
+        },
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "fix",
+                    "time": 9563.0
+                },
+                {
+                    "name": "language",
+                    "time": 3570.0
+                },
+                {
+                    "name": "react",
+                    "time": 9563.0
+                },
+                {
+                    "name": "skill",
+                    "time": 3570.0
+                },
+                {
+                    "name": "typescript",
+                    "time": 3570.0
+                },
+                {
+                    "name": "ui",
+                    "time": 9563.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 9563.0
+                }
+            ],
+            "time": 13133.0
+        },
+        {
+            "name": "scoping",
+            "tags": [
+                {
+                    "name": "arbor",
+                    "time": 758.0
+                },
+                {
+                    "name": "backend",
+                    "time": 758.0
+                },
+                {
+                    "name": "incentives",
+                    "time": 758.0
+                },
+                {
+                    "name": "paymagic",
+                    "time": 4822.0
+                },
+                {
+                    "name": "v2",
+                    "time": 4822.0
+                },
+                {
+                    "name": "variability",
+                    "time": 758.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 4822.0
+                }
+            ],
+            "time": 5580.0
+        }
+    ],
+    "time": 26491.0,
+    "timespan": {
+        "from": "2023-01-16T00:00:00-05:00",
+        "to": "2023-01-16T23:59:59.999999-05:00"
+    }
+}
