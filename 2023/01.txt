@@ -446,3 +446,124 @@
         "to": "2023-01-16T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "backend",
+                    "time": 10092.0
+                },
+                {
+                    "name": "bugfixes",
+                    "time": 5199.0
+                },
+                {
+                    "name": "di",
+                    "time": 2439.0
+                },
+                {
+                    "name": "goerliETH",
+                    "time": 2735.0
+                },
+                {
+                    "name": "inversion_of_control",
+                    "time": 2439.0
+                },
+                {
+                    "name": "metamask_login",
+                    "time": 1541.0
+                },
+                {
+                    "name": "mining",
+                    "time": 2735.0
+                },
+                {
+                    "name": "paymagic",
+                    "time": 8551.0
+                },
+                {
+                    "name": "setup",
+                    "time": 2735.0
+                },
+                {
+                    "name": "skills",
+                    "time": 1017.0
+                },
+                {
+                    "name": "solid",
+                    "time": 2439.0
+                },
+                {
+                    "name": "testing",
+                    "time": 8551.0
+                },
+                {
+                    "name": "type_widening",
+                    "time": 1017.0
+                },
+                {
+                    "name": "typescript",
+                    "time": 1017.0
+                },
+                {
+                    "name": "ui",
+                    "time": 5199.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 13725.0
+                }
+            ],
+            "time": 21482.0
+        },
+        {
+            "name": "research",
+            "tags": [
+                {
+                    "name": "dapps",
+                    "time": 6972.0
+                },
+                {
+                    "name": "login",
+                    "time": 6972.0
+                },
+                {
+                    "name": "metamask",
+                    "time": 6972.0
+                }
+            ],
+            "time": 6972.0
+        },
+        {
+            "name": "scoping",
+            "tags": [
+                {
+                    "name": "backend",
+                    "time": 2419.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 2419.0
+                }
+            ],
+            "time": 2419.0
+        },
+        {
+            "name": "standup",
+            "tags": [
+                {
+                    "name": "ziggy",
+                    "time": 3787.0
+                }
+            ],
+            "time": 3787.0
+        }
+    ],
+    "time": 34660.0,
+    "timespan": {
+        "from": "2023-01-17T00:00:00-05:00",
+        "to": "2023-01-17T23:59:59.999999-05:00"
+    }
+}
