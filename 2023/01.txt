@@ -630,3 +630,96 @@
         "to": "2023-01-18T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "fixes",
+                    "time": 3846.0
+                },
+                {
+                    "name": "paymagic",
+                    "time": 21290.0
+                },
+                {
+                    "name": "persistence",
+                    "time": 21290.0
+                },
+                {
+                    "name": "postgres",
+                    "time": 21290.0
+                },
+                {
+                    "name": "pr",
+                    "time": 3846.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 3846.0
+                }
+            ],
+            "time": 25136.0
+        },
+        {
+            "name": "research",
+            "tags": [
+                {
+                    "name": "cron",
+                    "time": 1472.0
+                },
+                {
+                    "name": "lib",
+                    "time": 1472.0
+                },
+                {
+                    "name": "minting",
+                    "time": 4165.0
+                },
+                {
+                    "name": "nft",
+                    "time": 4165.0
+                },
+                {
+                    "name": "node",
+                    "time": 1472.0
+                }
+            ],
+            "time": 5637.0
+        },
+        {
+            "name": "scoping",
+            "tags": [
+                {
+                    "name": "paymagic",
+                    "time": 5721.0
+                },
+                {
+                    "name": "persistence",
+                    "time": 5721.0
+                },
+                {
+                    "name": "v2",
+                    "time": 5721.0
+                }
+            ],
+            "time": 5721.0
+        },
+        {
+            "name": "standup",
+            "tags": [
+                {
+                    "name": "ziggy",
+                    "time": 1844.0
+                }
+            ],
+            "time": 1844.0
+        }
+    ],
+    "time": 38338.0,
+    "timespan": {
+        "from": "2023-01-19T00:00:00-05:00",
+        "to": "2023-01-19T23:59:59.999999-05:00"
+    }
+}
