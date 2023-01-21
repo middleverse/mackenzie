@@ -723,3 +723,58 @@
         "to": "2023-01-19T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "ideagen",
+            "tags": [
+                {
+                    "name": "product",
+                    "time": 3034.0
+                },
+                {
+                    "name": "web3",
+                    "time": 3034.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 3034.0
+                }
+            ],
+            "time": 3034.0
+        },
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "fixes",
+                    "time": 3110.0
+                },
+                {
+                    "name": "paymagic",
+                    "time": 18719.0
+                },
+                {
+                    "name": "persistence",
+                    "time": 15609.0
+                }
+            ],
+            "time": 18719.0
+        },
+        {
+            "name": "standup",
+            "tags": [
+                {
+                    "name": "ziggy",
+                    "time": 3900.0
+                }
+            ],
+            "time": 3900.0
+        }
+    ],
+    "time": 25653.0,
+    "timespan": {
+        "from": "2023-01-20T00:00:00-05:00",
+        "to": "2023-01-20T23:59:59.999999-05:00"
+    }
+}
