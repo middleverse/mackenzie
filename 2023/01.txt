@@ -828,3 +828,52 @@
         "to": "2023-01-22T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "cron",
+                    "time": 27498.0
+                },
+                {
+                    "name": "locks",
+                    "time": 23213.0
+                },
+                {
+                    "name": "paymagic",
+                    "time": 27498.0
+                },
+                {
+                    "name": "persistence",
+                    "time": 27498.0
+                },
+                {
+                    "name": "pr_review",
+                    "time": 128.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 128.0
+                }
+            ],
+            "time": 27626.0
+        },
+        {
+            "name": "standup",
+            "tags": [
+                {
+                    "name": "ziggy",
+                    "time": 5100.0
+                }
+            ],
+            "time": 5100.0
+        }
+    ],
+    "time": 32726.0,
+    "timespan": {
+        "from": "2023-01-23T00:00:00-05:00",
+        "to": "2023-01-23T23:59:59.999999-05:00"
+    }
+}
