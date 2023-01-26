@@ -877,3 +877,46 @@
         "to": "2023-01-23T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "backend",
+                    "time": 8260.0
+                },
+                {
+                    "name": "db",
+                    "time": 8260.0
+                },
+                {
+                    "name": "frontend",
+                    "time": 14032.0
+                },
+                {
+                    "name": "scoping",
+                    "time": 14032.0
+                },
+                {
+                    "name": "sql",
+                    "time": 8260.0
+                },
+                {
+                    "name": "transactions",
+                    "time": 8260.0
+                },
+                {
+                    "name": "ui",
+                    "time": 11041.0
+                }
+            ],
+            "time": 22292.0
+        }
+    ],
+    "time": 22292.0,
+    "timespan": {
+        "from": "2023-01-25T00:00:00-05:00",
+        "to": "2023-01-25T23:59:59.999999-05:00"
+    }
+}
