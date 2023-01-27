@@ -920,3 +920,76 @@
         "to": "2023-01-25T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "backend",
+                    "time": 24450.0
+                },
+                {
+                    "name": "conflicts",
+                    "time": 2162.0
+                },
+                {
+                    "name": "db",
+                    "time": 3017.0
+                },
+                {
+                    "name": "frontend",
+                    "time": 12402.0
+                },
+                {
+                    "name": "git",
+                    "time": 2162.0
+                },
+                {
+                    "name": "operators",
+                    "time": 2459.0
+                },
+                {
+                    "name": "pending_rewards",
+                    "time": 12402.0
+                },
+                {
+                    "name": "skills",
+                    "time": 2459.0
+                },
+                {
+                    "name": "sql",
+                    "time": 12048.0
+                },
+                {
+                    "name": "transactions",
+                    "time": 3017.0
+                },
+                {
+                    "name": "typescript",
+                    "time": 2459.0
+                }
+            ],
+            "time": 29071.0
+        },
+        {
+            "name": "standup",
+            "tags": [
+                {
+                    "name": "testing_talks",
+                    "time": 2248.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 2248.0
+                }
+            ],
+            "time": 2248.0
+        }
+    ],
+    "time": 31319.0,
+    "timespan": {
+        "from": "2023-01-26T00:00:00-05:00",
+        "to": "2023-01-26T23:59:59.999999-05:00"
+    }
+}
