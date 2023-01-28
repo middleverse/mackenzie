@@ -993,3 +993,48 @@
         "to": "2023-01-26T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "backend",
+                    "time": 12533.0
+                },
+                {
+                    "name": "frontend",
+                    "time": 12533.0
+                },
+                {
+                    "name": "pending_rewards",
+                    "time": 12533.0
+                },
+                {
+                    "name": "pr_review",
+                    "time": 10453.0
+                },
+                {
+                    "name": "testing",
+                    "time": 7096.0
+                }
+            ],
+            "time": 22986.0
+        },
+        {
+            "name": "standup",
+            "tags": [
+                {
+                    "name": "ziggy",
+                    "time": 2535.0
+                }
+            ],
+            "time": 2535.0
+        }
+    ],
+    "time": 25521.0,
+    "timespan": {
+        "from": "2023-01-27T00:00:00-05:00",
+        "to": "2023-01-27T23:59:59.999999-05:00"
+    }
+}
