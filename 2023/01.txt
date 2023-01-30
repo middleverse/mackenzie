@@ -1065,3 +1065,34 @@
         "to": "2023-01-28T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "backend",
+                    "time": 5133.0
+                },
+                {
+                    "name": "frontend",
+                    "time": 5133.0
+                },
+                {
+                    "name": "pending_rewards",
+                    "time": 5133.0
+                },
+                {
+                    "name": "testing",
+                    "time": 5133.0
+                }
+            ],
+            "time": 5133.0
+        }
+    ],
+    "time": 5133.0,
+    "timespan": {
+        "from": "2023-01-29T00:00:00-05:00",
+        "to": "2023-01-29T23:59:59.999999-05:00"
+    }
+}
