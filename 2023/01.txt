@@ -1096,3 +1096,73 @@
         "to": "2023-01-29T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "pr_review",
+            "tags": [],
+            "time": 2274.0
+        },
+        {
+            "name": "research",
+            "tags": [
+                {
+                    "name": "assets",
+                    "time": 2825.0
+                },
+                {
+                    "name": "video_templates",
+                    "time": 2825.0
+                }
+            ],
+            "time": 2825.0
+        },
+        {
+            "name": "scoping",
+            "tags": [
+                {
+                    "name": "full_stack",
+                    "time": 19696.0
+                },
+                {
+                    "name": "variable_rewards",
+                    "time": 19696.0
+                }
+            ],
+            "time": 19696.0
+        },
+        {
+            "name": "standup",
+            "tags": [
+                {
+                    "name": "sprint_review",
+                    "time": 4500.0
+                },
+                {
+                    "name": "ziggy",
+                    "time": 4500.0
+                }
+            ],
+            "time": 4500.0
+        },
+        {
+            "name": "testing",
+            "tags": [
+                {
+                    "name": "loom",
+                    "time": 1348.0
+                },
+                {
+                    "name": "pending_rewards",
+                    "time": 1348.0
+                }
+            ],
+            "time": 1348.0
+        }
+    ],
+    "time": 30643.0,
+    "timespan": {
+        "from": "2023-01-30T00:00:00-05:00",
+        "to": "2023-01-30T23:59:59.999999-05:00"
+    }
+}
