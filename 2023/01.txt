@@ -1236,3 +1236,77 @@
         "to": "2023-01-30T23:59:59.999999-05:00"
     }
 }
+,{
+    "projects": [
+        {
+            "name": "pr_review",
+            "tags": [],
+            "time": 600.0
+        },
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "backend",
+                    "time": 9129.0
+                },
+                {
+                    "name": "frontend",
+                    "time": 14343.0
+                },
+                {
+                    "name": "pending_rewards",
+                    "time": 4782.0
+                },
+                {
+                    "name": "variable_rewards",
+                    "time": 18690.0
+                }
+            ],
+            "time": 23472.0
+        },
+        {
+            "name": "scoping",
+            "tags": [
+                {
+                    "name": "full_stack",
+                    "time": 694.0
+                },
+                {
+                    "name": "variable_rewards",
+                    "time": 694.0
+                }
+            ],
+            "time": 694.0
+        },
+        {
+            "name": "standup",
+            "tags": [
+                {
+                    "name": "ziggy",
+                    "time": 1785.0
+                }
+            ],
+            "time": 1785.0
+        },
+        {
+            "name": "testing",
+            "tags": [
+                {
+                    "name": "pending_rewards",
+                    "time": 2437.0
+                },
+                {
+                    "name": "staging",
+                    "time": 2437.0
+                }
+            ],
+            "time": 2437.0
+        }
+    ],
+    "time": 28988.0,
+    "timespan": {
+        "from": "2023-01-31T00:00:00-05:00",
+        "to": "2023-01-31T23:59:59.999999-05:00"
+    }
+}
