@@ -1,0 +1,59 @@
+{
+    "projects": [
+        {
+            "name": "programming",
+            "tags": [
+                {
+                    "name": "backend",
+                    "time": 13506.0
+                },
+                {
+                    "name": "frontend",
+                    "time": 13506.0
+                },
+                {
+                    "name": "javascript",
+                    "time": 900.0
+                },
+                {
+                    "name": "skills",
+                    "time": 900.0
+                },
+                {
+                    "name": "variable_rewards",
+                    "time": 13506.0
+                }
+            ],
+            "time": 14406.0
+        },
+        {
+            "name": "standup",
+            "tags": [
+                {
+                    "name": "ziggy",
+                    "time": 1800.0
+                }
+            ],
+            "time": 1800.0
+        },
+        {
+            "name": "testing",
+            "tags": [
+                {
+                    "name": "pending_rewards",
+                    "time": 1378.0
+                },
+                {
+                    "name": "staging",
+                    "time": 1378.0
+                }
+            ],
+            "time": 1378.0
+        }
+    ],
+    "time": 17584.0,
+    "timespan": {
+        "from": "2023-02-01T00:00:00-05:00",
+        "to": "2023-02-01T23:59:59.999999-05:00"
+    }
+}
